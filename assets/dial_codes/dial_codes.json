@@ -1,0 +1,2200 @@
+{
+    "dialCodes": [
+        {
+            "numeric": "4",
+            "alpha2Code": "AF",
+            "alpha3Code": "AFG",
+            "name": "Afghanistan",
+            "nationality": "Afghan",
+            "dialCode": "+93",
+            "flag": "\ud83c\udde6\ud83c\uddeb"
+        },
+        {
+            "numeric": "248",
+            "alpha2Code": "AX",
+            "alpha3Code": "ALA",
+            "name": "Åland Islands",
+            "nationality": "Åland Island",
+            "dialCode": "+358",
+            "flag": "\ud83c\udde6\ud83c\uddfd"
+        },
+        {
+            "numeric": "8",
+            "alpha2Code": "AL",
+            "alpha3Code": "ALB",
+            "name": "Albania",
+            "nationality": "Albanian",
+            "dialCode": "+355",
+            "flag": "\ud83c\udde6\ud83c\uddf1"
+        },
+        {
+            "numeric": "12",
+            "alpha2Code": "DZ",
+            "alpha3Code": "DZA",
+            "name": "Algeria",
+            "nationality": "Algerian",
+            "dialCode": "+213",
+            "flag": "\ud83c\udde9\ud83c\uddff"
+        },
+        {
+            "numeric": "16",
+            "alpha2Code": "AS",
+            "alpha3Code": "ASM",
+            "name": "American Samoa",
+            "nationality": "American Samoan",
+            "dialCode": "+1684",
+            "flag": "\ud83c\udde6\ud83c\uddf8"
+        },
+        {
+            "numeric": "20",
+            "alpha2Code": "AD",
+            "alpha3Code": "AND",
+            "name": "Andorra",
+            "nationality": "Andorran",
+            "dialCode": "+376",
+            "flag": "\ud83c\udde6\ud83c\udde9"
+        },
+        {
+            "numeric": "24",
+            "alpha2Code": "AO",
+            "alpha3Code": "AGO",
+            "name": "Angola",
+            "nationality": "Angolan",
+            "dialCode": "+244",
+            "flag": "\ud83c\udde6\ud83c\uddf4"
+        },
+        {
+            "numeric": "660",
+            "alpha2Code": "AI",
+            "alpha3Code": "AIA",
+            "name": "Anguilla",
+            "nationality": "Anguillan",
+            "dialCode": "+1264",
+            "flag": "\ud83c\udde6\ud83c\uddee"
+        },
+        {
+            "numeric": "10",
+            "alpha2Code": "AQ",
+            "alpha3Code": "ATA",
+            "name": "Antarctica",
+            "nationality": "Antarctic",
+            "dialCode": "+672",
+            "flag": "\ud83c\udde6\ud83c\uddf6"
+        },
+        {
+            "numeric": "28",
+            "alpha2Code": "AG",
+            "alpha3Code": "ATG",
+            "name": "Antigua and Barbuda",
+            "nationality": "Antiguan or Barbudan",
+            "dialCode": "+1268",
+            "flag": "\ud83c\udde6\ud83c\uddec"
+        },
+        {
+            "numeric": "32",
+            "alpha2Code": "AR",
+            "alpha3Code": "ARG",
+            "name": "Argentina",
+            "nationality": "Argentine",
+            "dialCode": "+54",
+            "flag": "\ud83c\udde6\ud83c\uddf7"
+        },
+        {
+            "numeric": "51",
+            "alpha2Code": "AM",
+            "alpha3Code": "ARM",
+            "name": "Armenia",
+            "nationality": "Armenian",
+            "dialCode": "+374",
+            "flag": "\ud83c\udde6\ud83c\uddf2"
+        },
+        {
+            "numeric": "533",
+            "alpha2Code": "AW",
+            "alpha3Code": "ABW",
+            "name": "Aruba",
+            "nationality": "Aruban",
+            "dialCode": "+297",
+            "flag": "\ud83c\udde6\ud83c\uddfc"
+        },
+        {
+            "numeric": "36",
+            "alpha2Code": "AU",
+            "alpha3Code": "AUS",
+            "name": "Australia",
+            "nationality": "Australian",
+            "dialCode": "+61",
+            "flag": "\ud83c\udde6\ud83c\uddfa"
+        },
+        {
+            "numeric": "40",
+            "alpha2Code": "AT",
+            "alpha3Code": "AUT",
+            "name": "Austria",
+            "nationality": "Austrian",
+            "dialCode": "+43",
+            "flag": "\ud83c\udde6\ud83c\uddf9"
+        },
+        {
+            "numeric": "31",
+            "alpha2Code": "AZ",
+            "alpha3Code": "AZE",
+            "name": "Azerbaijan",
+            "nationality": "Azerbaijani, Azeri",
+            "dialCode": "+994",
+            "flag": "\ud83c\udde6\ud83c\uddff"
+        },
+        {
+            "numeric": "44",
+            "alpha2Code": "BS",
+            "alpha3Code": "BHS",
+            "name": "Bahamas",
+            "nationality": "Bahamian",
+            "dialCode": "+1242",
+            "flag": "\ud83c\udde7\ud83c\uddf8"
+        },
+        {
+            "numeric": "48",
+            "alpha2Code": "BH",
+            "alpha3Code": "BHR",
+            "name": "Bahrain",
+            "nationality": "Bahraini",
+            "dialCode": "+973",
+            "flag": "\ud83c\udde7\ud83c\udded"
+        },
+        {
+            "numeric": "50",
+            "alpha2Code": "BD",
+            "alpha3Code": "BGD",
+            "name": "Bangladesh",
+            "nationality": "Bangladeshi",
+            "dialCode": "+880",
+            "flag": "\ud83c\udde7\ud83c\udde9"
+        },
+        {
+            "numeric": "52",
+            "alpha2Code": "BB",
+            "alpha3Code": "BRB",
+            "name": "Barbados",
+            "nationality": "Barbadian",
+            "dialCode": "+1246",
+            "flag": "\ud83c\udde7\ud83c\udde7"
+        },
+        {
+            "numeric": "112",
+            "alpha2Code": "BY",
+            "alpha3Code": "BLR",
+            "name": "Belarus",
+            "nationality": "Belarusian",
+            "dialCode": "+375",
+            "flag": "\ud83c\udde7\ud83c\uddfe"
+        },
+        {
+            "numeric": "56",
+            "alpha2Code": "BE",
+            "alpha3Code": "BEL",
+            "name": "Belgium",
+            "nationality": "Belgian",
+            "dialCode": "+32",
+            "flag": "\ud83c\udde7\ud83c\uddea"
+        },
+        {
+            "numeric": "84",
+            "alpha2Code": "BZ",
+            "alpha3Code": "BLZ",
+            "name": "Belize",
+            "nationality": "Belizean",
+            "dialCode": "+501",
+            "flag": "\ud83c\udde7\ud83c\uddff"
+        },
+        {
+            "numeric": "204",
+            "alpha2Code": "BJ",
+            "alpha3Code": "BEN",
+            "name": "Benin",
+            "nationality": "Beninese, Beninois",
+            "dialCode": "+229",
+            "flag": "\ud83c\udde7\ud83c\uddef"
+        },
+        {
+            "numeric": "60",
+            "alpha2Code": "BM",
+            "alpha3Code": "BMU",
+            "name": "Bermuda",
+            "nationality": "Bermudian, Bermudan",
+            "dialCode": "+1441",
+            "flag": "\ud83c\udde7\ud83c\uddf2"
+        },
+        {
+            "numeric": "64",
+            "alpha2Code": "BT",
+            "alpha3Code": "BTN",
+            "name": "Bhutan",
+            "nationality": "Bhutanese",
+            "dialCode": "+975",
+            "flag": "\ud83c\udde7\ud83c\uddf9"
+        },
+        {
+            "numeric": "68",
+            "alpha2Code": "BO",
+            "alpha3Code": "BOL",
+            "name": "Bolivia (Plurinational State of)",
+            "nationality": "Bolivian",
+            "dialCode": "+591",
+            "flag": "\ud83c\udde7\ud83c\uddf4"
+        },
+        {
+            "numeric": "70",
+            "alpha2Code": "BA",
+            "alpha3Code": "BIH",
+            "name": "Bosnia and Herzegovina",
+            "nationality": "Bosnian or Herzegovinian",
+            "dialCode": "+387",
+            "flag": "\ud83c\udde7\ud83c\udde6"
+        },
+        {
+            "numeric": "72",
+            "alpha2Code": "BW",
+            "alpha3Code": "BWA",
+            "name": "Botswana",
+            "nationality": "Motswana, Botswanan",
+            "dialCode": "+267",
+            "flag": "\ud83c\udde7\ud83c\uddfc"
+        },
+        {
+            "numeric": "74",
+            "alpha2Code": "BV",
+            "alpha3Code": "BVT",
+            "name": "Bouvet Island",
+            "nationality": "Bouvet Island",
+            "dialCode": "+47",
+            "flag": "\ud83c\udde7\ud83c\uddfb"
+        },
+        {
+            "numeric": "76",
+            "alpha2Code": "BR",
+            "alpha3Code": "BRA",
+            "name": "Brazil",
+            "nationality": "Brazilian",
+            "dialCode": "+55",
+            "flag": "\ud83c\udde7\ud83c\uddf7"
+        },
+        {
+            "numeric": "86",
+            "alpha2Code": "IO",
+            "alpha3Code": "IOT",
+            "name": "British Indian Ocean Territory",
+            "nationality": "BIOT",
+            "dialCode": "+246",
+            "flag": "\ud83c\uddee\ud83c\uddf4"
+        },
+        {
+            "numeric": "96",
+            "alpha2Code": "BN",
+            "alpha3Code": "BRN",
+            "name": "Brunei Darussalam",
+            "nationality": "Bruneian",
+            "dialCode": "+673",
+            "flag": "\ud83c\udde7\ud83c\uddf3"
+        },
+        {
+            "numeric": "100",
+            "alpha2Code": "BG",
+            "alpha3Code": "BGR",
+            "name": "Bulgaria",
+            "nationality": "Bulgarian",
+            "dialCode": "+359",
+            "flag": "\ud83c\udde7\ud83c\uddec"
+        },
+        {
+            "numeric": "854",
+            "alpha2Code": "BF",
+            "alpha3Code": "BFA",
+            "name": "Burkina Faso",
+            "nationality": "Burkinabé",
+            "dialCode": "+226",
+            "flag": "\ud83c\udde7\ud83c\uddeb"
+        },
+        {
+            "numeric": "108",
+            "alpha2Code": "BI",
+            "alpha3Code": "BDI",
+            "name": "Burundi",
+            "nationality": "Burundian",
+            "dialCode": "+257",
+            "flag": "\ud83c\udde7\ud83c\uddee"
+        },
+        {
+            "numeric": "132",
+            "alpha2Code": "CV",
+            "alpha3Code": "CPV",
+            "name": "Cabo Verde",
+            "nationality": "Cabo Verdean",
+            "dialCode": "+238",
+            "flag": "\ud83c\udde8\ud83c\uddfb"
+        },
+        {
+            "numeric": "116",
+            "alpha2Code": "KH",
+            "alpha3Code": "KHM",
+            "name": "Cambodia",
+            "nationality": "Cambodian",
+            "dialCode": "+855",
+            "flag": "\ud83c\uddf0\ud83c\udded"
+        },
+        {
+            "numeric": "120",
+            "alpha2Code": "CM",
+            "alpha3Code": "CMR",
+            "name": "Cameroon",
+            "nationality": "Cameroonian",
+            "dialCode": "+237",
+            "flag": "\ud83c\udde8\ud83c\uddf2"
+        },
+        {
+            "numeric": "124",
+            "alpha2Code": "CA",
+            "alpha3Code": "CAN",
+            "name": "Canada",
+            "nationality": "Canadian",
+            "dialCode": "+1",
+            "flag": "\ud83c\udde8\ud83c\udde6"
+        },
+        {
+            "numeric": "136",
+            "alpha2Code": "KY",
+            "alpha3Code": "CYM",
+            "name": "Cayman Islands",
+            "nationality": "Caymanian",
+            "dialCode": "+ 345",
+            "flag": "\ud83c\uddf0\ud83c\uddfe"
+        },
+        {
+            "numeric": "140",
+            "alpha2Code": "CF",
+            "alpha3Code": "CAF",
+            "name": "Central African Republic",
+            "nationality": "Central African",
+            "dialCode": "+236",
+            "flag": "\ud83c\udde8\ud83c\uddeb"
+        },
+        {
+            "numeric": "148",
+            "alpha2Code": "TD",
+            "alpha3Code": "TCD",
+            "name": "Chad",
+            "nationality": "Chadian",
+            "dialCode": "+235",
+            "flag": "\ud83c\uddf9\ud83c\udde9"
+        },
+        {
+            "numeric": "152",
+            "alpha2Code": "CL",
+            "alpha3Code": "CHL",
+            "name": "Chile",
+            "nationality": "Chilean",
+            "dialCode": "+56",
+            "flag": "\ud83c\udde8\ud83c\uddf1"
+        },
+        {
+            "numeric": "156",
+            "alpha2Code": "CN",
+            "alpha3Code": "CHN",
+            "name": "China",
+            "nationality": "Chinese",
+            "dialCode": "+86",
+            "flag": "\ud83c\udde8\ud83c\uddf3"
+        },
+        {
+            "numeric": "162",
+            "alpha2Code": "CX",
+            "alpha3Code": "CXR",
+            "name": "Christmas Island",
+            "nationality": "Christmas Island",
+            "dialCode": "+61",
+            "flag": "\ud83c\udde8\ud83c\uddfd"
+        },
+        {
+            "numeric": "166",
+            "alpha2Code": "CC",
+            "alpha3Code": "CCK",
+            "name": "Cocos (Keeling) Islands",
+            "nationality": "Cocos Island",
+            "dialCode": "+61",
+            "flag": "\ud83c\udde8\ud83c\udde8"
+        },
+        {
+            "numeric": "170",
+            "alpha2Code": "CO",
+            "alpha3Code": "COL",
+            "name": "Colombia",
+            "nationality": "Colombian",
+            "dialCode": "+57",
+            "flag": "\ud83c\udde8\ud83c\uddf4"
+        },
+        {
+            "numeric": "174",
+            "alpha2Code": "KM",
+            "alpha3Code": "COM",
+            "name": "Comoros",
+            "nationality": "Comoran, Comorian",
+            "dialCode": "+269",
+            "flag": "\ud83c\uddf0\ud83c\uddf2"
+        },
+        {
+            "numeric": "178",
+            "alpha2Code": "CG",
+            "alpha3Code": "COG",
+            "name": "Congo (Republic of the)",
+            "nationality": "Congolese",
+            "dialCode": "+242",
+            "flag": "\ud83c\udde8\ud83c\uddec"
+        },
+        {
+            "numeric": "180",
+            "alpha2Code": "CD",
+            "alpha3Code": "COD",
+            "name": "Congo (Democratic Republic of the)",
+            "nationality": "Congolese",
+            "dialCode": "+243",
+            "flag": "\ud83c\udde8\ud83c\udde9"
+        },
+        {
+            "numeric": "184",
+            "alpha2Code": "CK",
+            "alpha3Code": "COK",
+            "name": "Cook Islands",
+            "nationality": "Cook Island",
+            "dialCode": "+682",
+            "flag": "\ud83c\udde8\ud83c\uddf0"
+        },
+        {
+            "numeric": "188",
+            "alpha2Code": "CR",
+            "alpha3Code": "CRI",
+            "name": "Costa Rica",
+            "nationality": "Costa Rican",
+            "dialCode": "+506",
+            "flag": "\ud83c\udde8\ud83c\uddf7"
+        },
+        {
+            "numeric": "384",
+            "alpha2Code": "CI",
+            "alpha3Code": "CIV",
+            "name": "Côte d'Ivoire",
+            "nationality": "Ivorian",
+            "dialCode": "+225",
+            "flag": "\ud83c\udde8\ud83c\uddee"
+        },
+        {
+            "numeric": "191",
+            "alpha2Code": "HR",
+            "alpha3Code": "HRV",
+            "name": "Croatia",
+            "nationality": "Croatian",
+            "dialCode": "+385",
+            "flag": "\ud83c\udded\ud83c\uddf7"
+        },
+        {
+            "numeric": "192",
+            "alpha2Code": "CU",
+            "alpha3Code": "CUB",
+            "name": "Cuba",
+            "nationality": "Cuban",
+            "dialCode": "+53",
+            "flag": "\ud83c\udde8\ud83c\uddfa"
+        },
+        {
+            "numeric": "196",
+            "alpha2Code": "CY",
+            "alpha3Code": "CYP",
+            "name": "Cyprus",
+            "nationality": "Cypriot",
+            "dialCode": "+357",
+            "flag": "\ud83c\udde8\ud83c\uddfe"
+        },
+        {
+            "numeric": "203",
+            "alpha2Code": "CZ",
+            "alpha3Code": "CZE",
+            "name": "Czech Republic",
+            "nationality": "Czech",
+            "dialCode": "+420",
+            "flag": "\ud83c\udde8\ud83c\uddff"
+        },
+        {
+            "numeric": "208",
+            "alpha2Code": "DK",
+            "alpha3Code": "DNK",
+            "name": "Denmark",
+            "nationality": "Danish",
+            "dialCode": "+45",
+            "flag": "\ud83c\udde9\ud83c\uddf0"
+        },
+        {
+            "numeric": "262",
+            "alpha2Code": "DJ",
+            "alpha3Code": "DJI",
+            "name": "Djibouti",
+            "nationality": "Djiboutian",
+            "dialCode": "+253",
+            "flag": "\ud83c\udde9\ud83c\uddef"
+        },
+        {
+            "numeric": "212",
+            "alpha2Code": "DM",
+            "alpha3Code": "DMA",
+            "name": "Dominica",
+            "nationality": "Dominican",
+            "dialCode": "+1767",
+            "flag": "\ud83c\udde9\ud83c\uddf2"
+        },
+        {
+            "numeric": "214",
+            "alpha2Code": "DO",
+            "alpha3Code": "DOM",
+            "name": "Dominican Republic",
+            "nationality": "Dominican",
+            "dialCode": "+1849",
+            "flag": "\ud83c\udde9\ud83c\uddf4"
+        },
+        {
+            "numeric": "218",
+            "alpha2Code": "EC",
+            "alpha3Code": "ECU",
+            "name": "Ecuador",
+            "nationality": "Ecuadorian",
+            "dialCode": "+593",
+            "flag": "\ud83c\uddea\ud83c\udde8"
+        },
+        {
+            "numeric": "818",
+            "alpha2Code": "EG",
+            "alpha3Code": "EGY",
+            "name": "Egypt",
+            "nationality": "Egyptian",
+            "dialCode": "+20",
+            "flag": "\ud83c\uddea\ud83c\uddec"
+        },
+        {
+            "numeric": "222",
+            "alpha2Code": "SV",
+            "alpha3Code": "SLV",
+            "name": "El Salvador",
+            "nationality": "Salvadoran",
+            "dialCode": "+503",
+            "flag": "\ud83c\uddf8\ud83c\uddfb"
+        },
+        {
+            "numeric": "226",
+            "alpha2Code": "GQ",
+            "alpha3Code": "GNQ",
+            "name": "Equatorial Guinea",
+            "nationality": "Equatorial Guinean, Equatoguinean",
+            "dialCode": "+240",
+            "flag": "\ud83c\uddec\ud83c\uddf6"
+        },
+        {
+            "numeric": "232",
+            "alpha2Code": "ER",
+            "alpha3Code": "ERI",
+            "name": "Eritrea",
+            "nationality": "Eritrean",
+            "dialCode": "+291",
+            "flag": "\ud83c\uddea\ud83c\uddf7"
+        },
+        {
+            "numeric": "233",
+            "alpha2Code": "EE",
+            "alpha3Code": "EST",
+            "name": "Estonia",
+            "nationality": "Estonian",
+            "dialCode": "+372",
+            "flag": "\ud83c\uddea\ud83c\uddea"
+        },
+        {
+            "numeric": "231",
+            "alpha2Code": "ET",
+            "alpha3Code": "ETH",
+            "name": "Ethiopia",
+            "nationality": "Ethiopian",
+            "dialCode": "+251",
+            "flag": "\ud83c\uddea\ud83c\uddf9"
+        },
+        {
+            "numeric": "238",
+            "alpha2Code": "FK",
+            "alpha3Code": "FLK",
+            "name": "Falkland Islands (Malvinas)",
+            "nationality": "Falkland Island",
+            "dialCode": "+500",
+            "flag": "\ud83c\uddeb\ud83c\uddf0"
+        },
+        {
+            "numeric": "234",
+            "alpha2Code": "FO",
+            "alpha3Code": "FRO",
+            "name": "Faroe Islands",
+            "nationality": "Faroese",
+            "dialCode": "+298",
+            "flag": "\ud83c\uddeb\ud83c\uddf4"
+        },
+        {
+            "numeric": "242",
+            "alpha2Code": "FJ",
+            "alpha3Code": "FJI",
+            "name": "Fiji",
+            "nationality": "Fijian",
+            "dialCode": "+679",
+            "flag": "\ud83c\uddeb\ud83c\uddef"
+        },
+        {
+            "numeric": "246",
+            "alpha2Code": "FI",
+            "alpha3Code": "FIN",
+            "name": "Finland",
+            "nationality": "Finnish",
+            "dialCode": "+358",
+            "flag": "\ud83c\uddeb\ud83c\uddee"
+        },
+        {
+            "numeric": "250",
+            "alpha2Code": "FR",
+            "alpha3Code": "FRA",
+            "name": "France",
+            "nationality": "French",
+            "dialCode": "+33",
+            "flag": "\ud83c\uddeb\ud83c\uddf7"
+        },
+        {
+            "numeric": "254",
+            "alpha2Code": "GF",
+            "alpha3Code": "GUF",
+            "name": "French Guiana",
+            "nationality": "French Guianese",
+            "dialCode": "+594",
+            "flag": "\ud83c\uddec\ud83c\uddeb"
+        },
+        {
+            "numeric": "258",
+            "alpha2Code": "PF",
+            "alpha3Code": "PYF",
+            "name": "French Polynesia",
+            "nationality": "French Polynesian",
+            "dialCode": "+689",
+            "flag": "\ud83c\uddf5\ud83c\uddeb"
+        },
+        {
+            "numeric": "260",
+            "alpha2Code": "TF",
+            "alpha3Code": "ATF",
+            "name": "French Southern Territories",
+            "nationality": "French Southern Territories",
+            "dialCode": "+262",
+            "flag": "\ud83c\uddf9\ud83c\uddeb"
+        },
+        {
+            "numeric": "266",
+            "alpha2Code": "GA",
+            "alpha3Code": "GAB",
+            "name": "Gabon",
+            "nationality": "Gabonese",
+            "dialCode": "+241",
+            "flag": "\ud83c\uddec\ud83c\udde6"
+        },
+        {
+            "numeric": "270",
+            "alpha2Code": "GM",
+            "alpha3Code": "GMB",
+            "name": "Gambia",
+            "nationality": "Gambian",
+            "dialCode": "+220",
+            "flag": "\ud83c\uddec\ud83c\uddf2"
+        },
+        {
+            "numeric": "268",
+            "alpha2Code": "GE",
+            "alpha3Code": "GEO",
+            "name": "Georgia",
+            "nationality": "Georgian",
+            "dialCode": "+995",
+            "flag": "\ud83c\uddec\ud83c\uddea"
+        },
+        {
+            "numeric": "276",
+            "alpha2Code": "DE",
+            "alpha3Code": "DEU",
+            "name": "Germany",
+            "nationality": "German",
+            "dialCode": "+49",
+            "flag": "\ud83c\udde9\ud83c\uddea"
+        },
+        {
+            "numeric": "288",
+            "alpha2Code": "GH",
+            "alpha3Code": "GHA",
+            "name": "Ghana",
+            "nationality": "Ghanaian",
+            "dialCode": "+233",
+            "flag": "\ud83c\uddec\ud83c\udded"
+        },
+        {
+            "numeric": "292",
+            "alpha2Code": "GI",
+            "alpha3Code": "GIB",
+            "name": "Gibraltar",
+            "nationality": "Gibraltar",
+            "dialCode": "+350",
+            "flag": "\ud83c\uddec\ud83c\uddee"
+        },
+        {
+            "numeric": "300",
+            "alpha2Code": "GR",
+            "alpha3Code": "GRC",
+            "name": "Greece",
+            "nationality": "Greek, Hellenic",
+            "dialCode": "+30",
+            "flag": "\ud83c\uddec\ud83c\uddf7"
+        },
+        {
+            "numeric": "304",
+            "alpha2Code": "GL",
+            "alpha3Code": "GRL",
+            "name": "Greenland",
+            "nationality": "Greenlandic",
+            "dialCode": "+299",
+            "flag": "\ud83c\uddec\ud83c\uddf1"
+        },
+        {
+            "numeric": "308",
+            "alpha2Code": "GD",
+            "alpha3Code": "GRD",
+            "name": "Grenada",
+            "nationality": "Grenadian",
+            "dialCode": "+1473",
+            "flag": "\ud83c\uddec\ud83c\udde9"
+        },
+        {
+            "numeric": "312",
+            "alpha2Code": "GP",
+            "alpha3Code": "GLP",
+            "name": "Guadeloupe",
+            "nationality": "Guadeloupe",
+            "dialCode": "+590",
+            "flag": "\ud83c\uddec\ud83c\uddf5"
+        },
+        {
+            "numeric": "316",
+            "alpha2Code": "GU",
+            "alpha3Code": "GUM",
+            "name": "Guam",
+            "nationality": "Guamanian, Guambat",
+            "dialCode": "+1671",
+            "flag": "\ud83c\uddec\ud83c\uddfa"
+        },
+        {
+            "numeric": "320",
+            "alpha2Code": "GT",
+            "alpha3Code": "GTM",
+            "name": "Guatemala",
+            "nationality": "Guatemalan",
+            "dialCode": "+502",
+            "flag": "\ud83c\uddec\ud83c\uddf9"
+        },
+        {
+            "numeric": "831",
+            "alpha2Code": "GG",
+            "alpha3Code": "GGY",
+            "name": "Guernsey",
+            "nationality": "Channel Island",
+            "dialCode": "+44",
+            "flag": "\ud83c\uddec\ud83c\uddec"
+        },
+        {
+            "numeric": "324",
+            "alpha2Code": "GN",
+            "alpha3Code": "GIN",
+            "name": "Guinea",
+            "nationality": "Guinean",
+            "dialCode": "+224",
+            "flag": "\ud83c\uddec\ud83c\uddf3"
+        },
+        {
+            "numeric": "624",
+            "alpha2Code": "GW",
+            "alpha3Code": "GNB",
+            "name": "Guinea-Bissau",
+            "nationality": "Bissau-Guinean",
+            "dialCode": "+245",
+            "flag": "\ud83c\uddec\ud83c\uddfc"
+        },
+        {
+            "numeric": "328",
+            "alpha2Code": "GY",
+            "alpha3Code": "GUY",
+            "name": "Guyana",
+            "nationality": "Guyanese",
+            "dialCode": "+592",
+            "flag": "\ud83c\uddec\ud83c\uddfe"
+        },
+        {
+            "numeric": "332",
+            "alpha2Code": "HT",
+            "alpha3Code": "HTI",
+            "name": "Haiti",
+            "nationality": "Haitian",
+            "dialCode": "+509",
+            "flag": "\ud83c\udded\ud83c\uddf9"
+        },
+        {
+            "numeric": "334",
+            "alpha2Code": "HM",
+            "alpha3Code": "HMD",
+            "name": "Heard Island and McDonald Islands",
+            "nationality": "Heard Island or McDonald Islands",
+            "dialCode": "+0",
+            "flag": "\ud83c\udded\ud83c\uddf2"
+        },
+        {
+            "numeric": "336",
+            "alpha2Code": "VA",
+            "alpha3Code": "VAT",
+            "name": "Vatican City State",
+            "nationality": "Vatican",
+            "dialCode": "+379",
+            "flag": "\ud83c\uddfb\ud83c\udde6"
+        },
+        {
+            "numeric": "340",
+            "alpha2Code": "HN",
+            "alpha3Code": "HND",
+            "name": "Honduras",
+            "nationality": "Honduran",
+            "dialCode": "+504",
+            "flag": "\ud83c\udded\ud83c\uddf3"
+        },
+        {
+            "numeric": "344",
+            "alpha2Code": "HK",
+            "alpha3Code": "HKG",
+            "name": "Hong Kong",
+            "nationality": "Hong Kong, Hong Kongese",
+            "dialCode": "+852",
+            "flag": "\ud83c\udded\ud83c\uddf0"
+        },
+        {
+            "numeric": "348",
+            "alpha2Code": "HU",
+            "alpha3Code": "HUN",
+            "name": "Hungary",
+            "nationality": "Hungarian, Magyar",
+            "dialCode": "+36",
+            "flag": "\ud83c\udded\ud83c\uddfa"
+        },
+        {
+            "numeric": "352",
+            "alpha2Code": "IS",
+            "alpha3Code": "ISL",
+            "name": "Iceland",
+            "nationality": "Icelandic",
+            "dialCode": "+354",
+            "flag": "\ud83c\uddee\ud83c\uddf8"
+        },
+        {
+            "numeric": "356",
+            "alpha2Code": "IN",
+            "alpha3Code": "IND",
+            "name": "India",
+            "nationality": "Indian",
+            "dialCode": "+91",
+            "flag": "\ud83c\uddee\ud83c\uddf3"
+        },
+        {
+            "numeric": "360",
+            "alpha2Code": "ID",
+            "alpha3Code": "IDN",
+            "name": "Indonesia",
+            "nationality": "Indonesian",
+            "dialCode": "+62",
+            "flag": "\ud83c\uddee\ud83c\udde9"
+        },
+        {
+            "numeric": "364",
+            "alpha2Code": "IR",
+            "alpha3Code": "IRN",
+            "name": "Iran",
+            "nationality": "Iranian, Persian",
+            "dialCode": "+98",
+            "flag": "\ud83c\uddee\ud83c\uddf7"
+        },
+        {
+            "numeric": "368",
+            "alpha2Code": "IQ",
+            "alpha3Code": "IRQ",
+            "name": "Iraq",
+            "nationality": "Iraqi",
+            "dialCode": "+964",
+            "flag": "\ud83c\uddee\ud83c\uddf6"
+        },
+        {
+            "numeric": "372",
+            "alpha2Code": "IE",
+            "alpha3Code": "IRL",
+            "name": "Ireland",
+            "nationality": "Irish",
+            "dialCode": "+353",
+            "flag": "\ud83c\uddee\ud83c\uddea"
+        },
+        {
+            "numeric": "833",
+            "alpha2Code": "IM",
+            "alpha3Code": "IMN",
+            "name": "Isle of Man",
+            "nationality": "Manx",
+            "dialCode": "+44",
+            "flag": "\ud83c\uddee\ud83c\uddf2"
+        },
+        {
+            "numeric": "376",
+            "alpha2Code": "IL",
+            "alpha3Code": "ISR",
+            "name": "Israel",
+            "nationality": "Israeli",
+            "dialCode": "+972",
+            "flag": "\ud83c\uddee\ud83c\uddf1"
+        },
+        {
+            "numeric": "380",
+            "alpha2Code": "IT",
+            "alpha3Code": "ITA",
+            "name": "Italy",
+            "nationality": "Italian",
+            "dialCode": "+39",
+            "flag": "\ud83c\uddee\ud83c\uddf9"
+        },
+        {
+            "numeric": "388",
+            "alpha2Code": "JM",
+            "alpha3Code": "JAM",
+            "name": "Jamaica",
+            "nationality": "Jamaican",
+            "dialCode": "+1876",
+            "flag": "\ud83c\uddef\ud83c\uddf2"
+        },
+        {
+            "numeric": "392",
+            "alpha2Code": "JP",
+            "alpha3Code": "JPN",
+            "name": "Japan",
+            "nationality": "Japanese",
+            "dialCode": "+81",
+            "flag": "\ud83c\uddef\ud83c\uddf5"
+        },
+        {
+            "numeric": "832",
+            "alpha2Code": "JE",
+            "alpha3Code": "JEY",
+            "name": "Jersey",
+            "nationality": "Channel Island",
+            "dialCode": "+44",
+            "flag": "\ud83c\uddef\ud83c\uddea"
+        },
+        {
+            "numeric": "400",
+            "alpha2Code": "JO",
+            "alpha3Code": "JOR",
+            "name": "Jordan",
+            "nationality": "Jordanian",
+            "dialCode": "+962",
+            "flag": "\ud83c\uddef\ud83c\uddf4"
+        },
+        {
+            "numeric": "398",
+            "alpha2Code": "KZ",
+            "alpha3Code": "KAZ",
+            "name": "Kazakhstan",
+            "nationality": "Kazakhstani, Kazakh",
+            "dialCode": "+7",
+            "flag": "\ud83c\uddf0\ud83c\uddff"
+        },
+        {
+            "numeric": "404",
+            "alpha2Code": "KE",
+            "alpha3Code": "KEN",
+            "name": "Kenya",
+            "nationality": "Kenyan",
+            "dialCode": "+254",
+            "flag": "\ud83c\uddf0\ud83c\uddea"
+        },
+        {
+            "numeric": "296",
+            "alpha2Code": "KI",
+            "alpha3Code": "KIR",
+            "name": "Kiribati",
+            "nationality": "I-Kiribati",
+            "dialCode": "+686",
+            "flag": "\ud83c\uddf0\ud83c\uddee"
+        },
+        {
+            "numeric": "408",
+            "alpha2Code": "KP",
+            "alpha3Code": "PRK",
+            "name": "Korea (Democratic People's Republic of)",
+            "nationality": "North Korean",
+            "dialCode": "+850",
+            "flag": "\ud83c\uddf0\ud83c\uddf5"
+        },
+        {
+            "numeric": "410",
+            "alpha2Code": "KR",
+            "alpha3Code": "KOR",
+            "name": "Korea (Republic of)",
+            "nationality": "South Korean",
+            "dialCode": "+82",
+            "flag": "\ud83c\uddf0\ud83c\uddf7"
+        },
+        {
+            "numeric": "414",
+            "alpha2Code": "KW",
+            "alpha3Code": "KWT",
+            "name": "Kuwait",
+            "nationality": "Kuwaiti",
+            "dialCode": "+965",
+            "flag": "\ud83c\uddf0\ud83c\uddfc"
+        },
+        {
+            "numeric": "417",
+            "alpha2Code": "KG",
+            "alpha3Code": "KGZ",
+            "name": "Kyrgyzstan",
+            "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",
+            "dialCode": "+996",
+            "flag": "\ud83c\uddf0\ud83c\uddec"
+        },
+        {
+            "numeric": "418",
+            "alpha2Code": "LA",
+            "alpha3Code": "LAO",
+            "name": "Lao People's Democratic Republic",
+            "nationality": "Lao, Laotian",
+            "dialCode": "+856",
+            "flag": "\ud83c\uddf1\ud83c\udde6"
+        },
+        {
+            "numeric": "428",
+            "alpha2Code": "LV",
+            "alpha3Code": "LVA",
+            "name": "Latvia",
+            "nationality": "Latvian",
+            "dialCode": "+371",
+            "flag": "\ud83c\uddf1\ud83c\uddfb"
+        },
+        {
+            "numeric": "422",
+            "alpha2Code": "LB",
+            "alpha3Code": "LBN",
+            "name": "Lebanon",
+            "nationality": "Lebanese",
+            "dialCode": "+961",
+            "flag": "\ud83c\uddf1\ud83c\udde7"
+        },
+        {
+            "numeric": "426",
+            "alpha2Code": "LS",
+            "alpha3Code": "LSO",
+            "name": "Lesotho",
+            "nationality": "Basotho",
+            "dialCode": "+266",
+            "flag": "\ud83c\uddf1\ud83c\uddf8"
+        },
+        {
+            "numeric": "430",
+            "alpha2Code": "LR",
+            "alpha3Code": "LBR",
+            "name": "Liberia",
+            "nationality": "Liberian",
+            "dialCode": "+231",
+            "flag": "\ud83c\uddf1\ud83c\uddf7"
+        },
+        {
+            "numeric": "434",
+            "alpha2Code": "LY",
+            "alpha3Code": "LBY",
+            "name": "Libya",
+            "nationality": "Libyan",
+            "dialCode": "+218",
+            "flag": "\ud83c\uddf1\ud83c\uddfe"
+        },
+        {
+            "numeric": "438",
+            "alpha2Code": "LI",
+            "alpha3Code": "LIE",
+            "name": "Liechtenstein",
+            "nationality": "Liechtenstein",
+            "dialCode": "+423",
+            "flag": "\ud83c\uddf1\ud83c\uddee"
+        },
+        {
+            "numeric": "440",
+            "alpha2Code": "LT",
+            "alpha3Code": "LTU",
+            "name": "Lithuania",
+            "nationality": "Lithuanian",
+            "dialCode": "+370",
+            "flag": "\ud83c\uddf1\ud83c\uddf9"
+        },
+        {
+            "numeric": "442",
+            "alpha2Code": "LU",
+            "alpha3Code": "LUX",
+            "name": "Luxembourg",
+            "nationality": "Luxembourg, Luxembourgish",
+            "dialCode": "+352",
+            "flag": "\ud83c\uddf1\ud83c\uddfa"
+        },
+        {
+            "numeric": "446",
+            "alpha2Code": "MO",
+            "alpha3Code": "MAC",
+            "name": "Macao",
+            "nationality": "Macanese, Chinese",
+            "dialCode": "+853",
+            "flag": "\ud83c\uddf1\ud83c\uddfa"
+        },
+        {
+            "numeric": "807",
+            "alpha2Code": "MK",
+            "alpha3Code": "MKD",
+            "name": "Macedonia (the former Yugoslav Republic of)",
+            "nationality": "Macedonian",
+            "dialCode": "+389",
+            "flag": "\ud83c\uddf2\ud83c\uddf0"
+        },
+        {
+            "numeric": "450",
+            "alpha2Code": "MG",
+            "alpha3Code": "MDG",
+            "name": "Madagascar",
+            "nationality": "Malagasy",
+            "dialCode": "+261",
+            "flag": "\ud83c\uddf2\ud83c\uddec"
+        },
+        {
+            "numeric": "454",
+            "alpha2Code": "MW",
+            "alpha3Code": "MWI",
+            "name": "Malawi",
+            "nationality": "Malawian",
+            "dialCode": "+265",
+            "flag": "\ud83c\uddf2\ud83c\uddfc"
+        },
+        {
+            "numeric": "458",
+            "alpha2Code": "MY",
+            "alpha3Code": "MYS",
+            "name": "Malaysia",
+            "nationality": "Malaysian",
+            "dialCode": "+60",
+            "flag": "\ud83c\uddf2\ud83c\uddfe"
+        },
+        {
+            "numeric": "462",
+            "alpha2Code": "MV",
+            "alpha3Code": "MDV",
+            "name": "Maldives",
+            "nationality": "Maldivian",
+            "dialCode": "+960",
+            "flag": "\ud83c\uddf2\ud83c\uddfb"
+        },
+        {
+            "numeric": "466",
+            "alpha2Code": "ML",
+            "alpha3Code": "MLI",
+            "name": "Mali",
+            "nationality": "Malian, Malinese",
+            "dialCode": "+223",
+            "flag": "\ud83c\uddf2\ud83c\uddf1"
+        },
+        {
+            "numeric": "470",
+            "alpha2Code": "MT",
+            "alpha3Code": "MLT",
+            "name": "Malta",
+            "nationality": "Maltese",
+            "dialCode": "+356",
+            "flag": "\ud83c\uddf2\ud83c\uddf9"
+        },
+        {
+            "numeric": "584",
+            "alpha2Code": "MH",
+            "alpha3Code": "MHL",
+            "name": "Marshall Islands",
+            "nationality": "Marshallese",
+            "dialCode": "+692",
+            "flag": "\ud83c\uddf2\ud83c\udded"
+        },
+        {
+            "numeric": "474",
+            "alpha2Code": "MQ",
+            "alpha3Code": "MTQ",
+            "name": "Martinique",
+            "nationality": "Martiniquais, Martinican",
+            "dialCode": "+596",
+            "flag": "\ud83c\uddf2\ud83c\uddf6"
+        },
+        {
+            "numeric": "478",
+            "alpha2Code": "MR",
+            "alpha3Code": "MRT",
+            "name": "Mauritania",
+            "nationality": "Mauritanian",
+            "dialCode": "+222",
+            "flag": "\ud83c\uddf2\ud83c\uddf7"
+        },
+        {
+            "numeric": "480",
+            "alpha2Code": "MU",
+            "alpha3Code": "MUS",
+            "name": "Mauritius",
+            "nationality": "Mauritian",
+            "dialCode": "+230",
+            "flag": "\ud83c\uddf2\ud83c\uddfa"
+        },
+        {
+            "numeric": "175",
+            "alpha2Code": "YT",
+            "alpha3Code": "MYT",
+            "name": "Mayotte",
+            "nationality": "Mahoran",
+            "dialCode": "+262",
+            "flag": "\ud83c\uddfe\ud83c\uddf9"
+        },
+        {
+            "numeric": "484",
+            "alpha2Code": "MX",
+            "alpha3Code": "MEX",
+            "name": "Mexico",
+            "nationality": "Mexican",
+            "dialCode": "+52",
+            "flag": "\ud83c\uddf2\ud83c\uddfd"
+        },
+        {
+            "numeric": "583",
+            "alpha2Code": "FM",
+            "alpha3Code": "FSM",
+            "name": "Micronesia (Federated States of)",
+            "nationality": "Micronesian",
+            "dialCode": "+691",
+            "flag": "\ud83c\uddeb\ud83c\uddf2"
+        },
+        {
+            "numeric": "498",
+            "alpha2Code": "MD",
+            "alpha3Code": "MDA",
+            "name": "Moldova (Republic of)",
+            "nationality": "Moldovan",
+            "dialCode": "+373",
+            "flag": "\ud83c\uddf2\ud83c\udde9"
+        },
+        {
+            "numeric": "492",
+            "alpha2Code": "MC",
+            "alpha3Code": "MCO",
+            "name": "Monaco",
+            "nationality": "Monégasque, Monacan",
+            "dialCode": "+377",
+            "flag": "\ud83c\uddf2\ud83c\udde8"
+        },
+        {
+            "numeric": "496",
+            "alpha2Code": "MN",
+            "alpha3Code": "MNG",
+            "name": "Mongolia",
+            "nationality": "Mongolian",
+            "dialCode": "+976",
+            "flag": "\ud83c\uddf2\ud83c\uddf3"
+        },
+        {
+            "numeric": "499",
+            "alpha2Code": "ME",
+            "alpha3Code": "MNE",
+            "name": "Montenegro",
+            "nationality": "Montenegrin",
+            "dialCode": "+382",
+            "flag": "\ud83c\uddf2\ud83c\uddea"
+        },
+        {
+            "numeric": "500",
+            "alpha2Code": "MS",
+            "alpha3Code": "MSR",
+            "name": "Montserrat",
+            "nationality": "Montserratian",
+            "dialCode": "+1664",
+            "flag": "\ud83c\uddf2\ud83c\uddf8"
+        },
+        {
+            "numeric": "504",
+            "alpha2Code": "MA",
+            "alpha3Code": "MAR",
+            "name": "Morocco",
+            "nationality": "Moroccan",
+            "dialCode": "+212",
+            "flag": "\ud83c\uddf2\ud83c\udde6"
+        },
+        {
+            "numeric": "508",
+            "alpha2Code": "MZ",
+            "alpha3Code": "MOZ",
+            "name": "Mozambique",
+            "nationality": "Mozambican",
+            "dialCode": "+258",
+            "flag": "\ud83c\uddf2\ud83c\uddff"
+        },
+        {
+            "numeric": "104",
+            "alpha2Code": "MM",
+            "alpha3Code": "MMR",
+            "name": "Myanmar",
+            "nationality": "Burmese",
+            "dialCode": "+95",
+            "flag": "\ud83c\uddf2\ud83c\uddf2"
+        },
+        {
+            "numeric": "516",
+            "alpha2Code": "NA",
+            "alpha3Code": "NAM",
+            "name": "Namibia",
+            "nationality": "Namibian",
+            "dialCode": "+264",
+            "flag": "\ud83c\uddf3\ud83c\udde6"
+        },
+        {
+            "numeric": "520",
+            "alpha2Code": "NR",
+            "alpha3Code": "NRU",
+            "name": "Nauru",
+            "nationality": "Nauruan",
+            "dialCode": "+674",
+            "flag": "\ud83c\uddf3\ud83c\uddf7"
+        },
+        {
+            "numeric": "524",
+            "alpha2Code": "NP",
+            "alpha3Code": "NPL",
+            "name": "Nepal",
+            "nationality": "Nepali, Nepalese",
+            "dialCode": "+977",
+            "flag": "\ud83c\uddf3\ud83c\uddf5"
+        },
+        {
+            "numeric": "528",
+            "alpha2Code": "NL",
+            "alpha3Code": "NLD",
+            "name": "Netherlands",
+            "nationality": "Dutch, Netherlandic",
+            "dialCode": "+31",
+            "flag": "\ud83c\uddf3\ud83c\uddf1"
+        },
+        {
+            "numeric": "540",
+            "alpha2Code": "NC",
+            "alpha3Code": "NCL",
+            "name": "New Caledonia",
+            "nationality": "New Caledonian",
+            "dialCode": "+687",
+            "flag": "\ud83c\uddf3\ud83c\udde8"
+        },
+        {
+            "numeric": "554",
+            "alpha2Code": "NZ",
+            "alpha3Code": "NZL",
+            "name": "New Zealand",
+            "nationality": "New Zealand, NZ",
+            "dialCode": "+64",
+            "flag": "\ud83c\uddf3\ud83c\uddff"
+        },
+        {
+            "numeric": "558",
+            "alpha2Code": "NI",
+            "alpha3Code": "NIC",
+            "name": "Nicaragua",
+            "nationality": "Nicaraguan",
+            "dialCode": "+505",
+            "flag": "\ud83c\uddf3\ud83c\uddee"
+        },
+        {
+            "numeric": "562",
+            "alpha2Code": "NE",
+            "alpha3Code": "NER",
+            "name": "Niger",
+            "nationality": "Nigerien",
+            "dialCode": "+227",
+            "flag": "\ud83c\uddf3\ud83c\uddea"
+        },
+        {
+            "numeric": "566",
+            "alpha2Code": "NG",
+            "alpha3Code": "NGA",
+            "name": "Nigeria",
+            "nationality": "Nigerian",
+            "dialCode": "+234",
+            "flag": "\ud83c\uddf3\ud83c\uddec"
+        },
+        {
+            "numeric": "570",
+            "alpha2Code": "NU",
+            "alpha3Code": "NIU",
+            "name": "Niue",
+            "nationality": "Niuean",
+            "dialCode": "+683",
+            "flag": "\ud83c\uddf3\ud83c\uddfa"
+        },
+        {
+            "numeric": "574",
+            "alpha2Code": "NF",
+            "alpha3Code": "NFK",
+            "name": "Norfolk Island",
+            "nationality": "Norfolk Island",
+            "dialCode": "+672",
+            "flag": "\ud83c\uddf3\ud83c\uddeb"
+        },
+        {
+            "numeric": "580",
+            "alpha2Code": "MP",
+            "alpha3Code": "MNP",
+            "name": "Northern Mariana Islands",
+            "nationality": "Northern Marianan",
+            "dialCode": "+1670",
+            "flag": "\ud83c\uddf2\ud83c\uddf5"
+        },
+        {
+            "numeric": "578",
+            "alpha2Code": "NO",
+            "alpha3Code": "NOR",
+            "name": "Norway",
+            "nationality": "Norwegian",
+            "dialCode": "+47",
+            "flag": "\ud83c\uddf3\ud83c\uddf4"
+        },
+        {
+            "numeric": "512",
+            "alpha2Code": "OM",
+            "alpha3Code": "OMN",
+            "name": "Oman",
+            "nationality": "Omani",
+            "dialCode": "+968",
+            "flag": "\ud83c\uddf4\ud83c\uddf2"
+        },
+        {
+            "numeric": "586",
+            "alpha2Code": "PK",
+            "alpha3Code": "PAK",
+            "name": "Pakistan",
+            "nationality": "Pakistani",
+            "dialCode": "+92",
+            "flag": "\ud83c\uddf5\ud83c\uddf0"
+        },
+        {
+            "numeric": "585",
+            "alpha2Code": "PW",
+            "alpha3Code": "PLW",
+            "name": "Palau",
+            "nationality": "Palauan",
+            "dialCode": "+680",
+            "flag": "\ud83c\uddf5\ud83c\uddfc"
+        },
+        {
+            "numeric": "275",
+            "alpha2Code": "PS",
+            "alpha3Code": "PSE",
+            "name": "Palestine, State of",
+            "nationality": "Palestinian",
+            "dialCode": "+970",
+            "flag": "\ud83c\uddf5\ud83c\uddf8"
+        },
+        {
+            "numeric": "591",
+            "alpha2Code": "PA",
+            "alpha3Code": "PAN",
+            "name": "Panama",
+            "nationality": "Panamanian",
+            "dialCode": "+507",
+            "flag": "\ud83c\uddf5\ud83c\udde6"
+        },
+        {
+            "numeric": "598",
+            "alpha2Code": "PG",
+            "alpha3Code": "PNG",
+            "name": "Papua New Guinea",
+            "nationality": "Papua New Guinean, Papuan",
+            "dialCode": "+675",
+            "flag": "\ud83c\uddf5\ud83c\uddec"
+        },
+        {
+            "numeric": "600",
+            "alpha2Code": "PY",
+            "alpha3Code": "PRY",
+            "name": "Paraguay",
+            "nationality": "Paraguayan",
+            "dialCode": "+595",
+            "flag": "\ud83c\uddf5\ud83c\uddfe"
+        },
+        {
+            "numeric": "604",
+            "alpha2Code": "PE",
+            "alpha3Code": "PER",
+            "name": "Peru",
+            "nationality": "Peruvian",
+            "dialCode": "+51",
+            "flag": "\ud83c\uddf5\ud83c\uddea"
+        },
+        {
+            "numeric": "608",
+            "alpha2Code": "PH",
+            "alpha3Code": "PHL",
+            "name": "Philippines",
+            "nationality": "Philippine, Filipino",
+            "dialCode": "+63",
+            "flag": "\ud83c\uddf5\ud83c\udded"
+        },
+        {
+            "numeric": "612",
+            "alpha2Code": "PN",
+            "alpha3Code": "PCN",
+            "name": "Pitcairn",
+            "nationality": "Pitcairn Island",
+            "dialCode": "+64",
+            "flag": "\ud83c\uddf5\ud83c\uddf3"
+        },
+        {
+            "numeric": "616",
+            "alpha2Code": "PL",
+            "alpha3Code": "POL",
+            "name": "Poland",
+            "nationality": "Polish",
+            "dialCode": "+48",
+            "flag": "\ud83c\uddf5\ud83c\uddf1"
+        },
+        {
+            "numeric": "620",
+            "alpha2Code": "PT",
+            "alpha3Code": "PRT",
+            "name": "Portugal",
+            "nationality": "Portuguese",
+            "dialCode": "+351",
+            "flag": "\ud83c\uddf5\ud83c\uddf9"
+        },
+        {
+            "numeric": "630",
+            "alpha2Code": "PR",
+            "alpha3Code": "PRI",
+            "name": "Puerto Rico",
+            "nationality": "Puerto Rican",
+            "dialCode": "+1939",
+            "flag": "\ud83c\uddf5\ud83c\uddf7"
+        },
+        {
+            "numeric": "634",
+            "alpha2Code": "QA",
+            "alpha3Code": "QAT",
+            "name": "Qatar",
+            "nationality": "Qatari",
+            "dialCode": "+974",
+            "flag": "\ud83c\uddf6\ud83c\udde6"
+        },
+        {
+            "numeric": "638",
+            "alpha2Code": "RE",
+            "alpha3Code": "REU",
+            "name": "Réunion",
+            "nationality": "Réunionese, Réunionnais",
+            "dialCode": "+262",
+            "flag": "\ud83c\uddf7\ud83c\uddea"
+        },
+        {
+            "numeric": "642",
+            "alpha2Code": "RO",
+            "alpha3Code": "ROU",
+            "name": "Romania",
+            "nationality": "Romanian",
+            "dialCode": "+40",
+            "flag": "\ud83c\uddf7\ud83c\uddf4"
+        },
+        {
+            "numeric": "643",
+            "alpha2Code": "RU",
+            "alpha3Code": "RUS",
+            "name": "Russian Federation",
+            "nationality": "Russian",
+            "dialCode": "+7",
+            "flag": "\ud83c\uddf7\ud83c\uddfa"
+        },
+        {
+            "numeric": "646",
+            "alpha2Code": "RW",
+            "alpha3Code": "RWA",
+            "name": "Rwanda",
+            "nationality": "Rwandan",
+            "dialCode": "+250",
+            "flag": "\ud83c\uddf7\ud83c\uddfc"
+        },
+        {
+            "numeric": "652",
+            "alpha2Code": "BL",
+            "alpha3Code": "BLM",
+            "name": "Saint Barthélemy",
+            "nationality": "Barthélemois",
+            "dialCode": "+590",
+            "flag": "\ud83c\udde7\ud83c\uddf1"
+        },
+        {
+            "numeric": "654",
+            "alpha2Code": "SH",
+            "alpha3Code": "SHN",
+            "name": "Saint Helena, Ascension and Tristan da Cunha",
+            "nationality": "Saint Helenian",
+            "dialCode": "+290",
+            "flag": "\ud83c\uddf8\ud83c\udded"
+        },
+        {
+            "numeric": "659",
+            "alpha2Code": "KN",
+            "alpha3Code": "KNA",
+            "name": "Saint Kitts and Nevis",
+            "nationality": "Kittitian or Nevisian",
+            "dialCode": "+1869",
+            "flag": "\ud83c\uddf0\ud83c\uddf3"
+        },
+        {
+            "numeric": "662",
+            "alpha2Code": "LC",
+            "alpha3Code": "LCA",
+            "name": "Saint Lucia",
+            "nationality": "Saint Lucian",
+            "dialCode": "+1758",
+            "flag": "\ud83c\uddf1\ud83c\udde8"
+        },
+        {
+            "numeric": "663",
+            "alpha2Code": "MF",
+            "alpha3Code": "MAF",
+            "name": "Saint Martin (French part)",
+            "nationality": "Saint-Martinoise",
+            "dialCode": "+590",
+            "flag": "\ud83c\uddf2\ud83c\uddeb"
+        },
+        {
+            "numeric": "666",
+            "alpha2Code": "PM",
+            "alpha3Code": "SPM",
+            "name": "Saint Pierre and Miquelon",
+            "nationality": "Saint-Pierrais or Miquelonnais",
+            "dialCode": "+508",
+            "flag": "\ud83c\uddf5\ud83c\uddf2"
+        },
+        {
+            "numeric": "670",
+            "alpha2Code": "VC",
+            "alpha3Code": "VCT",
+            "name": "Saint Vincent and the Grenadines",
+            "nationality": "Saint Vincentian, Vincentian",
+            "dialCode": "+1784",
+            "flag": "\ud83c\uddfb\ud83c\udde8"
+        },
+        {
+            "numeric": "882",
+            "alpha2Code": "WS",
+            "alpha3Code": "WSM",
+            "name": "Samoa",
+            "nationality": "Samoan",
+            "dialCode": "+685",
+            "flag": "\ud83c\uddfc\ud83c\uddf8"
+        },
+        {
+            "numeric": "674",
+            "alpha2Code": "SM",
+            "alpha3Code": "SMR",
+            "name": "San Marino",
+            "nationality": "Sammarinese",
+            "dialCode": "+378",
+            "flag": "\ud83c\uddf8\ud83c\uddf2"
+        },
+        {
+            "numeric": "678",
+            "alpha2Code": "ST",
+            "alpha3Code": "STP",
+            "name": "Sao Tome and Principe",
+            "nationality": "São Toméan",
+            "dialCode": "+239",
+            "flag": "\ud83c\uddf8\ud83c\uddf9"
+        },
+        {
+            "numeric": "682",
+            "alpha2Code": "SA",
+            "alpha3Code": "SAU",
+            "name": "Saudi Arabia",
+            "nationality": "Saudi, Saudi Arabian",
+            "dialCode": "+966",
+            "flag": "\ud83c\uddf8\ud83c\udde6"
+        },
+        {
+            "numeric": "686",
+            "alpha2Code": "SN",
+            "alpha3Code": "SEN",
+            "name": "Senegal",
+            "nationality": "Senegalese",
+            "dialCode": "+221",
+            "flag": "\ud83c\uddf8\ud83c\uddf3"
+        },
+        {
+            "numeric": "688",
+            "alpha2Code": "RS",
+            "alpha3Code": "SRB",
+            "name": "Serbia",
+            "nationality": "Serbian",
+            "dialCode": "+381",
+            "flag": "\ud83c\uddf7\ud83c\uddf8"
+        },
+        {
+            "numeric": "690",
+            "alpha2Code": "SC",
+            "alpha3Code": "SYC",
+            "name": "Seychelles",
+            "nationality": "Seychellois",
+            "dialCode": "+248",
+            "flag": "\ud83c\uddf8\ud83c\udde8"
+        },
+        {
+            "numeric": "694",
+            "alpha2Code": "SL",
+            "alpha3Code": "SLE",
+            "name": "Sierra Leone",
+            "nationality": "Sierra Leonean",
+            "dialCode": "+232",
+            "flag": "\ud83c\uddf8\ud83c\uddf1"
+        },
+        {
+            "numeric": "702",
+            "alpha2Code": "SG",
+            "alpha3Code": "SGP",
+            "name": "Singapore",
+            "nationality": "Singaporean",
+            "dialCode": "+65",
+            "flag": "\ud83c\uddf8\ud83c\uddec"
+        },
+        {
+            "numeric": "703",
+            "alpha2Code": "SK",
+            "alpha3Code": "SVK",
+            "name": "Slovakia",
+            "nationality": "Slovak",
+            "dialCode": "+421",
+            "flag": "\ud83c\uddf8\ud83c\uddf0"
+        },
+        {
+            "numeric": "705",
+            "alpha2Code": "SI",
+            "alpha3Code": "SVN",
+            "name": "Slovenia",
+            "nationality": "Slovenian, Slovene",
+            "dialCode": "+386",
+            "flag": "\ud83c\uddf8\ud83c\uddee"
+        },
+        {
+            "numeric": "90",
+            "alpha2Code": "SB",
+            "alpha3Code": "SLB",
+            "name": "Solomon Islands",
+            "nationality": "Solomon Island",
+            "dialCode": "+677",
+            "flag": "\ud83c\uddf8\ud83c\udde7"
+        },
+        {
+            "numeric": "706",
+            "alpha2Code": "SO",
+            "alpha3Code": "SOM",
+            "name": "Somalia",
+            "nationality": "Somali, Somalian",
+            "dialCode": "+252",
+            "flag": "\ud83c\uddf8\ud83c\uddf4"
+        },
+        {
+            "numeric": "710",
+            "alpha2Code": "ZA",
+            "alpha3Code": "ZAF",
+            "name": "South Africa",
+            "nationality": "South African",
+            "dialCode": "+27",
+            "flag": "\ud83c\uddff\ud83c\udde6"
+        },
+        {
+            "numeric": "239",
+            "alpha2Code": "GS",
+            "alpha3Code": "SGS",
+            "name": "South Georgia and the South Sandwich Islands",
+            "nationality": "South Georgia or South Sandwich Islands",
+            "dialCode": "+500",
+            "flag": "\ud83c\uddec\ud83c\uddf8"
+        },
+        {
+            "numeric": "728",
+            "alpha2Code": "SS",
+            "alpha3Code": "SSD",
+            "name": "South Sudan",
+            "nationality": "South Sudanese",
+            "dialCode": "+211",
+            "flag": "\ud83c\uddf8\ud83c\uddf8"
+        },
+        {
+            "numeric": "724",
+            "alpha2Code": "ES",
+            "alpha3Code": "ESP",
+            "name": "Spain",
+            "nationality": "Spanish",
+            "dialCode": "+34",
+            "flag": "\ud83c\uddea\ud83c\uddf8"
+        },
+        {
+            "numeric": "144",
+            "alpha2Code": "LK",
+            "alpha3Code": "LKA",
+            "name": "Sri Lanka",
+            "nationality": "Sri Lankan",
+            "dialCode": "+94",
+            "flag": "\ud83c\uddf1\ud83c\uddf0"
+        },
+        {
+            "numeric": "729",
+            "alpha2Code": "SD",
+            "alpha3Code": "SDN",
+            "name": "Sudan",
+            "nationality": "Sudanese",
+            "dialCode": "+249",
+            "flag": "\ud83c\uddf8\ud83c\udde9"
+        },
+        {
+            "numeric": "740",
+            "alpha2Code": "SR",
+            "alpha3Code": "SUR",
+            "name": "Suriname",
+            "nationality": "Surinamese",
+            "dialCode": "+597",
+            "flag": "\ud83c\uddf8\ud83c\uddf7"
+        },
+        {
+            "numeric": "744",
+            "alpha2Code": "SJ",
+            "alpha3Code": "SJM",
+            "name": "Svalbard and Jan Mayen",
+            "nationality": "Svalbard",
+            "dialCode": "+47",
+            "flag": "\ud83c\uddf8\ud83c\uddef"
+        },
+        {
+            "numeric": "748",
+            "alpha2Code": "SZ",
+            "alpha3Code": "SWZ",
+            "name": "Swaziland",
+            "nationality": "Swazi",
+            "dialCode": "+268",
+            "flag": "\ud83c\uddf8\ud83c\uddff"
+        },
+        {
+            "numeric": "752",
+            "alpha2Code": "SE",
+            "alpha3Code": "SWE",
+            "name": "Sweden",
+            "nationality": "Swedish",
+            "dialCode": "+46",
+            "flag": "\ud83c\uddf8\ud83c\uddea"
+        },
+        {
+            "numeric": "756",
+            "alpha2Code": "CH",
+            "alpha3Code": "CHE",
+            "name": "Switzerland",
+            "nationality": "Swiss",
+            "dialCode": "+41",
+            "flag": "\ud83c\udde8\ud83c\udded"
+        },
+        {
+            "numeric": "760",
+            "alpha2Code": "SY",
+            "alpha3Code": "SYR",
+            "name": "Syrian Arab Republic",
+            "nationality": "Syrian",
+            "dialCode": "+963",
+            "flag": "\ud83c\uddf8\ud83c\uddfe"
+        },
+        {
+            "numeric": "158",
+            "alpha2Code": "TW",
+            "alpha3Code": "TWN",
+            "name": "Taiwan, Province of China",
+            "nationality": "Chinese, Taiwanese",
+            "dialCode": "+886",
+            "flag": "\ud83c\uddf9\ud83c\uddfc"
+        },
+        {
+            "numeric": "762",
+            "alpha2Code": "TJ",
+            "alpha3Code": "TJK",
+            "name": "Tajikistan",
+            "nationality": "Tajikistani",
+            "dialCode": "+992",
+            "flag": "\ud83c\uddf9\ud83c\uddef"
+        },
+        {
+            "numeric": "834",
+            "alpha2Code": "TZ",
+            "alpha3Code": "TZA",
+            "name": "Tanzania, United Republic of",
+            "nationality": "Tanzanian",
+            "dialCode": "+255",
+            "flag": "\ud83c\uddf9\ud83c\uddff"
+        },
+        {
+            "numeric": "764",
+            "alpha2Code": "TH",
+            "alpha3Code": "THA",
+            "name": "Thailand",
+            "nationality": "Thai",
+            "dialCode": "+66",
+            "flag": "\ud83c\uddf9\ud83c\udded"
+        },
+        {
+            "numeric": "626",
+            "alpha2Code": "TL",
+            "alpha3Code": "TLS",
+            "name": "Timor-Leste",
+            "nationality": "Timorese",
+            "dialCode": "+670",
+            "flag": "\ud83c\uddf9\ud83c\uddf1"
+        },
+        {
+            "numeric": "768",
+            "alpha2Code": "TG",
+            "alpha3Code": "TGO",
+            "name": "Togo",
+            "nationality": "Togolese",
+            "dialCode": "+228",
+            "flag": "\ud83c\uddf9\ud83c\uddec"
+        },
+        {
+            "numeric": "772",
+            "alpha2Code": "TK",
+            "alpha3Code": "TKL",
+            "name": "Tokelau",
+            "nationality": "Tokelauan",
+            "dialCode": "+690",
+            "flag": "\ud83c\uddf9\ud83c\uddf0"
+        },
+        {
+            "numeric": "776",
+            "alpha2Code": "TO",
+            "alpha3Code": "TON",
+            "name": "Tonga",
+            "nationality": "Tongan",
+            "dialCode": "+676",
+            "flag": "\ud83c\uddf9\ud83c\uddf4"
+        },
+        {
+            "numeric": "780",
+            "alpha2Code": "TT",
+            "alpha3Code": "TTO",
+            "name": "Trinidad and Tobago",
+            "nationality": "Trinidadian or Tobagonian",
+            "dialCode": "+1868",
+            "flag": "\ud83c\uddf9\ud83c\uddf9"
+        },
+        {
+            "numeric": "788",
+            "alpha2Code": "TN",
+            "alpha3Code": "TUN",
+            "name": "Tunisia",
+            "nationality": "Tunisian",
+            "dialCode": "+216",
+            "flag": "\ud83c\uddf9\ud83c\uddf3"
+        },
+        {
+            "numeric": "792",
+            "alpha2Code": "TR",
+            "alpha3Code": "TUR",
+            "name": "Turkey",
+            "nationality": "Turkish",
+            "dialCode": "+90",
+            "flag": "\ud83c\uddf9\ud83c\uddf7"
+        },
+        {
+            "numeric": "795",
+            "alpha2Code": "TM",
+            "alpha3Code": "TKM",
+            "name": "Turkmenistan",
+            "nationality": "Turkmen",
+            "dialCode": "+993",
+            "flag": "\ud83c\uddf9\ud83c\uddf2"
+        },
+        {
+            "numeric": "796",
+            "alpha2Code": "TC",
+            "alpha3Code": "TCA",
+            "name": "Turks and Caicos Islands",
+            "nationality": "Turks and Caicos Island",
+            "dialCode": "+1649",
+            "flag": "\ud83c\uddf9\ud83c\udde8"
+        },
+        {
+            "numeric": "798",
+            "alpha2Code": "TV",
+            "alpha3Code": "TUV",
+            "name": "Tuvalu",
+            "nationality": "Tuvaluan",
+            "dialCode": "+688",
+            "flag": "\ud83c\uddf9\ud83c\uddfb"
+        },
+        {
+            "numeric": "800",
+            "alpha2Code": "UG",
+            "alpha3Code": "UGA",
+            "name": "Uganda",
+            "nationality": "Ugandan",
+            "dialCode": "+256",
+            "flag": "\ud83c\uddfa\ud83c\uddec"
+        },
+        {
+            "numeric": "804",
+            "alpha2Code": "UA",
+            "alpha3Code": "UKR",
+            "name": "Ukraine",
+            "nationality": "Ukrainian",
+            "dialCode": "+380",
+            "flag": "\ud83c\uddfa\ud83c\udde6"
+        },
+        {
+            "numeric": "784",
+            "alpha2Code": "AE",
+            "alpha3Code": "ARE",
+            "name": "United Arab Emirates",
+            "nationality": "Emirati, Emirian, Emiri",
+            "dialCode": "+971",
+            "flag": "\ud83c\udde6\ud83c\uddea"
+        },
+        {
+            "numeric": "826",
+            "alpha2Code": "GB",
+            "alpha3Code": "GBR",
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "nationality": "British, UK",
+            "dialCode": "+44",
+            "flag": "\ud83c\uddec\ud83c\udde7"
+        },
+        {
+            "numeric": "840",
+            "alpha2Code": "US",
+            "alpha3Code": "USA",
+            "name": "United States of America",
+            "nationality": "American",
+            "dialCode": "+1",
+            "flag": "\ud83c\uddfa\ud83c\uddf8"
+        },
+        {
+            "numeric": "858",
+            "alpha2Code": "UY",
+            "alpha3Code": "URY",
+            "name": "Uruguay",
+            "nationality": "Uruguayan",
+            "dialCode": "+598",
+            "flag": "\ud83c\uddfa\ud83c\uddfe"
+        },
+        {
+            "numeric": "860",
+            "alpha2Code": "UZ",
+            "alpha3Code": "UZB",
+            "name": "Uzbekistan",
+            "nationality": "Uzbekistani, Uzbek",
+            "dialCode": "+998",
+            "flag": "\ud83c\uddfa\ud83c\uddff"
+        },
+        {
+            "numeric": "548",
+            "alpha2Code": "VU",
+            "alpha3Code": "VUT",
+            "name": "Vanuatu",
+            "nationality": "Ni-Vanuatu, Vanuatuan",
+            "dialCode": "+678",
+            "flag": "\ud83c\uddfb\ud83c\uddfa"
+        },
+        {
+            "numeric": "862",
+            "alpha2Code": "VE",
+            "alpha3Code": "VEN",
+            "name": "Venezuela (Bolivarian Republic of)",
+            "nationality": "Venezuelan",
+            "dialCode": "+58",
+            "flag": "\ud83c\uddfb\ud83c\uddea"
+        },
+        {
+            "numeric": "704",
+            "alpha2Code": "VN",
+            "alpha3Code": "VNM",
+            "name": "Vietnam",
+            "nationality": "Vietnamese",
+            "dialCode": "+84",
+            "flag": "\ud83c\uddfb\ud83c\uddf3"
+        },
+        {
+            "numeric": "92",
+            "alpha2Code": "VG",
+            "alpha3Code": "VGB",
+            "name": "Virgin Islands (British)",
+            "nationality": "British Virgin Island",
+            "dialCode": "+1284",
+            "flag": "\ud83c\uddfb\ud83c\uddec"
+        },
+        {
+            "numeric": "850",
+            "alpha2Code": "VI",
+            "alpha3Code": "VIR",
+            "name": "Virgin Islands (U.S.)",
+            "nationality": "U.S. Virgin Island",
+            "dialCode": "+1340",
+            "flag": "\ud83c\uddfb\ud83c\uddee"
+        },
+        {
+            "numeric": "876",
+            "alpha2Code": "WF",
+            "alpha3Code": "WLF",
+            "name": "Wallis and Futuna",
+            "nationality": "Wallis and Futuna, Wallisian or Futunan",
+            "dialCode": "+681",
+            "flag": "\ud83c\uddfc\ud83c\uddeb"
+        },
+        {
+            "numeric": "887",
+            "alpha2Code": "YE",
+            "alpha3Code": "YEM",
+            "name": "Yemen",
+            "nationality": "Yemeni",
+            "dialCode": "+967",
+            "flag": "\ud83c\uddfe\ud83c\uddea"
+        },
+        {
+            "numeric": "894",
+            "alpha2Code": "ZM",
+            "alpha3Code": "ZMB",
+            "name": "Zambia",
+            "nationality": "Zambian",
+            "dialCode": "+260",
+            "flag": "\ud83c\uddff\ud83c\uddf2"
+        },
+        {
+            "numeric": "716",
+            "alpha2Code": "ZW",
+            "alpha3Code": "ZWE",
+            "name": "Zimbabwe",
+            "nationality": "Zimbabwean",
+            "dialCode": "+263",
+            "flag": "\ud83c\uddff\ud83c\uddfc"
+        }
+    ]
+}
