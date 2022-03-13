@@ -7,17 +7,26 @@ import 'package:flutter/services.dart';
 class DialCodes {
   Future<List<DialCodeData>> getDialCodesList() async {
     try {
-      final jsonString = await File('assets/dial_codes/dial_codes.json')
-          .readAsString()
-          .catchError((e) {
+      final filePath = 'assets/dial_codes/dial_codes.json';
+      return File(filePath).readAsString().then((value) {
+        final jsonString = value;
+        final jsonMap = json.decode(jsonString) as Map<String, dynamic>;
+        print(jsonMap);
+        List data = jsonMap['dialCodes'];
+
+        List<DialCodeData> listCodes =
+            data.map((e) => DialCodeData.fromJson(e)).toList();
+        return listCodes;
+      }).catchError((e) {
         print('Error on getDialCodesList: ' + e.toString());
+        return <DialCodeData>[];
       });
+      // final jsonString = await rootBundle
+      //     .loadString('assets/dial_codes/dial_codes.json')
+      //     .catchError((e) {
+      //   print('Error on getDialCodesList: ' + e.toString());
+      // });
 
-      final jsonMap = json.decode(jsonString) as dynamic;
-      log("$jsonMap");
-
-      List data = jsonMap['dialCodes'];
-      return data.map((e) => DialCodeData.fromJson(e)).toList();
     } catch (e) {
       log('Error on getDialCodesList: ', error: e);
       return <DialCodeData>[];
